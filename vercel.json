@@ -1,0 +1,8 @@
+{
+  "cron": [
+    {
+      "path": "/api/auto-reveal",
+      "schedule": "0 5 * * *"
+    }
+  ]
+}
